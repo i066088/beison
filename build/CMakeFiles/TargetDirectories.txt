@@ -1,0 +1,4 @@
+E:/GitHub/beison/build/CMakeFiles/beison.dir
+E:/GitHub/beison/build/CMakeFiles/INSTALL.dir
+E:/GitHub/beison/build/CMakeFiles/ALL_BUILD.dir
+E:/GitHub/beison/build/CMakeFiles/ZERO_CHECK.dir

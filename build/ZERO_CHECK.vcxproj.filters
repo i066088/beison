@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GitHub\beison\build\CMakeFiles\ef963a9f589545fc311edc06bd537e5c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\GitHub\beison\cmake\config.cmake.in">
+      <Filter>Buildsystem Input Files\cmake</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B0D88FD3-D239-318B-9650-3AF9B8BE82F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EBD8AA82-0CBE-3A0E-9E71-6CB1C50D20C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake">
+      <UniqueIdentifier>{6EC2F0E7-09A3-33AC-B963-23612B96D580}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

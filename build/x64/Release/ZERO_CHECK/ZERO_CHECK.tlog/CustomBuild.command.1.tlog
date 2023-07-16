@@ -1,0 +1,10 @@
+^E:\GITHUB\BEISON\BUILD\CMAKEFILES\EF963A9F589545FC311EDC06BD537E5C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/GitHub/beison -BE:/GitHub/beison/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/GitHub/beison/build/beison.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
