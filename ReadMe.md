@@ -27,6 +27,11 @@ The output is like:
 -- Build files have been written to: E:/GitHub/beison/build
 ```
 
+By default, VS is used to generate the build files. However, you can also select a different generator and specify a build type, like below:
+```
+cmake -G "Ninja" -DCMAKE_BUILD_TYPE=Debug ..
+```
+
 - Build the project:
 ```cmake
 cmake --build . --config=Release
